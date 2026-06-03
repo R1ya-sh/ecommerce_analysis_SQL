@@ -15,6 +15,7 @@ Analysed a simulated e-commerce dataset using SQL to uncover revenue trends, cus
 
 ## Queries covered
 | Query | Concept used |
+|-------|-------------|
 | Products by category | SELECT, WHERE, ORDER BY |
 | Revenue by category | JOIN, GROUP BY, SUM |
 | High-value customers | HAVING, multi-table JOIN |
